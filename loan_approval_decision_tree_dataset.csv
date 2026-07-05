@@ -1,0 +1,201 @@
+Annual_Income,Credit_Score,Loan_Amount,Employment_Status,Education_Level,Existing_Debt,Loan_Status
+141958,540,82097,Employed,Graduate,467010,Rejected
+35795,863,716326,Unemployed,Postgraduate,82152,Rejected
+20860,395,699150,Unemployed,Graduate,125036,Rejected
+123694,784,280229,Self-Employed,High School,386193,Rejected
+148106,706,168834,Employed,High School,26734,Approved
+139879,530,143848,Employed,Graduate,399587,Rejected
+130268,470,102921,Unemployed,Graduate,26069,Rejected
+96820,840,755086,Employed,High School,210977,Approved
+74886,335,700429,Unemployed,Postgraduate,12910,Rejected
+26265,824,755660,Employed,Graduate,335623,Rejected
+102386,459,334821,Unemployed,Graduate,470951,Rejected
+148214,542,105609,Employed,High School,81264,Rejected
+57194,385,277897,Self-Employed,Graduate,23275,Rejected
+107498,877,81024,Employed,Postgraduate,72274,Approved
+132727,856,120313,Employed,High School,474665,Rejected
+146324,873,439957,Self-Employed,Graduate,362920,Rejected
+64131,327,234078,Employed,High School,191076,Rejected
+80263,855,407429,Self-Employed,Graduate,194053,Approved
+36023,639,982842,Employed,Graduate,477875,Rejected
+61090,630,511243,Unemployed,Graduate,185625,Rejected
+87221,805,163632,Unemployed,Postgraduate,48447,Approved
+84820,647,987012,Employed,Postgraduate,427745,Rejected
+20769,772,301451,Employed,High School,388538,Rejected
+79735,530,53051,Employed,Graduate,75703,Rejected
+82955,489,754107,Unemployed,Graduate,338234,Rejected
+84925,524,426836,Employed,Postgraduate,279404,Rejected
+141637,684,661523,Unemployed,Graduate,112581,Approved
+87969,676,771772,Self-Employed,Postgraduate,265956,Rejected
+25311,582,239407,Unemployed,Graduate,421240,Rejected
+123355,558,499395,Unemployed,High School,189728,Rejected
+124724,658,999597,Self-Employed,Graduate,378292,Rejected
+103104,755,512894,Unemployed,Graduate,420501,Rejected
+73707,710,261810,Employed,Postgraduate,485652,Rejected
+105305,617,777975,Employed,Graduate,116421,Rejected
+48693,524,123523,Unemployed,Graduate,1605,Rejected
+91932,533,810463,Employed,Postgraduate,464374,Rejected
+147723,673,144476,Unemployed,High School,72303,Approved
+113016,771,283841,Employed,High School,158211,Approved
+126970,532,853451,Employed,Postgraduate,470365,Rejected
+45658,412,920045,Unemployed,Postgraduate,187210,Rejected
+104478,796,272866,Employed,Postgraduate,261949,Rejected
+142537,741,136672,Unemployed,Postgraduate,338269,Rejected
+38431,863,648135,Employed,Postgraduate,144990,Rejected
+22747,567,394894,Employed,High School,478871,Rejected
+143855,809,784994,Self-Employed,High School,158518,Approved
+79150,685,78251,Self-Employed,Postgraduate,124040,Approved
+85725,686,677769,Unemployed,Graduate,144118,Approved
+149981,412,424710,Self-Employed,Postgraduate,418034,Rejected
+104654,380,600233,Unemployed,Graduate,231966,Rejected
+55773,412,927284,Self-Employed,Postgraduate,266468,Rejected
+139346,301,82217,Employed,Postgraduate,338467,Rejected
+87435,519,58308,Unemployed,High School,271255,Rejected
+76886,865,318093,Unemployed,Graduate,431326,Rejected
+86803,524,233062,Employed,Graduate,16389,Rejected
+51551,684,444366,Unemployed,High School,122177,Approved
+136216,702,794840,Unemployed,High School,303571,Rejected
+31394,429,150235,Self-Employed,High School,472795,Rejected
+89092,352,124740,Unemployed,High School,159818,Rejected
+23890,715,428496,Employed,Graduate,122883,Rejected
+61606,546,903049,Self-Employed,Graduate,218958,Rejected
+116276,738,800201,Self-Employed,Postgraduate,238213,Approved
+145768,502,853328,Employed,Postgraduate,393333,Rejected
+100038,483,967230,Employed,High School,387952,Rejected
+107313,422,227247,Self-Employed,High School,112221,Rejected
+30627,700,713165,Unemployed,High School,477687,Rejected
+28792,593,579525,Self-Employed,Postgraduate,275378,Rejected
+128859,579,70056,Employed,Postgraduate,260669,Rejected
+128557,497,226615,Self-Employed,Postgraduate,234936,Rejected
+93969,810,237628,Employed,Postgraduate,315585,Rejected
+63001,443,688836,Self-Employed,Postgraduate,846,Rejected
+96552,500,423632,Unemployed,Postgraduate,10954,Rejected
+43897,423,184415,Self-Employed,Postgraduate,341383,Rejected
+88148,486,456716,Self-Employed,High School,244761,Rejected
+141729,625,496438,Employed,High School,308658,Rejected
+144243,763,603663,Employed,High School,350380,Rejected
+140923,648,715022,Employed,High School,359723,Rejected
+140174,702,591252,Self-Employed,Postgraduate,137541,Approved
+43483,645,687717,Unemployed,Graduate,423321,Rejected
+144358,810,302764,Employed,Postgraduate,304245,Rejected
+68555,446,764998,Employed,Graduate,64323,Rejected
+145436,447,516882,Self-Employed,High School,91922,Rejected
+37159,788,790427,Employed,Postgraduate,189139,Rejected
+130510,850,562153,Unemployed,High School,180448,Approved
+126530,637,117215,Unemployed,Postgraduate,176659,Rejected
+100077,772,905474,Employed,High School,430192,Rejected
+55920,450,194356,Employed,Graduate,235659,Rejected
+112067,714,253861,Self-Employed,Graduate,389678,Rejected
+87121,597,405612,Unemployed,Graduate,329728,Rejected
+89479,562,504605,Unemployed,Postgraduate,104537,Rejected
+109475,443,59435,Employed,Graduate,340621,Rejected
+39457,645,497556,Self-Employed,Postgraduate,241983,Rejected
+86557,871,749438,Unemployed,Graduate,42533,Approved
+97189,301,915264,Unemployed,Graduate,263972,Rejected
+129109,603,625581,Self-Employed,Postgraduate,1917,Rejected
+98953,553,128781,Self-Employed,Postgraduate,282762,Rejected
+72995,752,241475,Unemployed,Graduate,32254,Approved
+60757,336,210196,Unemployed,Postgraduate,261987,Rejected
+29692,459,276507,Self-Employed,Graduate,367436,Rejected
+65758,308,356063,Unemployed,Postgraduate,47362,Rejected
+149425,532,814121,Employed,High School,282272,Rejected
+92409,398,826665,Employed,High School,385925,Rejected
+91211,507,740607,Self-Employed,High School,242353,Rejected
+85697,430,171172,Self-Employed,High School,190455,Rejected
+57065,703,406902,Self-Employed,High School,65545,Approved
+112093,451,534963,Employed,Graduate,82180,Rejected
+119299,353,505968,Unemployed,High School,87958,Rejected
+149293,419,368717,Employed,High School,403081,Rejected
+52606,886,109101,Unemployed,High School,395435,Rejected
+147791,719,545972,Employed,High School,301953,Rejected
+31534,721,338790,Unemployed,Postgraduate,378892,Rejected
+114663,403,940617,Employed,Graduate,5287,Rejected
+60397,553,597337,Self-Employed,High School,257665,Rejected
+146678,526,784965,Employed,High School,427603,Rejected
+111387,411,410260,Unemployed,High School,8512,Rejected
+21016,809,933811,Employed,Graduate,132414,Rejected
+109789,772,642673,Employed,Postgraduate,456292,Rejected
+75591,398,700419,Employed,Graduate,108872,Rejected
+109812,452,483374,Self-Employed,Postgraduate,412432,Rejected
+43247,637,770777,Employed,High School,247754,Rejected
+44300,462,597577,Self-Employed,High School,93070,Rejected
+94065,460,422370,Self-Employed,Graduate,79767,Rejected
+102798,879,937225,Employed,Graduate,97829,Approved
+29268,697,321967,Employed,Postgraduate,419830,Rejected
+106807,576,241232,Employed,Postgraduate,429474,Rejected
+32185,803,354119,Unemployed,Graduate,487005,Rejected
+83704,691,59540,Employed,Postgraduate,42078,Approved
+106779,434,590652,Self-Employed,Graduate,368432,Rejected
+59099,494,447827,Employed,Postgraduate,83524,Rejected
+28571,700,601951,Unemployed,Graduate,227645,Rejected
+143372,332,101991,Employed,Graduate,12219,Rejected
+125512,759,238751,Unemployed,Graduate,262379,Rejected
+58044,769,416326,Unemployed,Postgraduate,305073,Rejected
+71214,674,736337,Employed,Postgraduate,127309,Approved
+81228,321,668992,Self-Employed,Postgraduate,329588,Rejected
+134752,337,99115,Unemployed,Graduate,139639,Rejected
+68984,529,403151,Employed,Postgraduate,363978,Rejected
+60774,664,793583,Employed,Postgraduate,464008,Rejected
+22568,862,241962,Self-Employed,Graduate,196513,Rejected
+140151,737,771747,Unemployed,High School,346699,Rejected
+82592,582,199143,Unemployed,Graduate,335842,Rejected
+87563,326,764635,Employed,Postgraduate,386594,Rejected
+22695,525,586226,Employed,Graduate,248320,Rejected
+144375,576,403824,Self-Employed,High School,136487,Rejected
+68190,583,54000,Self-Employed,Graduate,167231,Rejected
+25258,780,775948,Unemployed,Postgraduate,43925,Rejected
+107538,752,937474,Unemployed,High School,137023,Approved
+59504,815,405754,Employed,Postgraduate,87388,Approved
+53159,846,301492,Unemployed,High School,8007,Approved
+33986,491,940123,Self-Employed,High School,257802,Rejected
+81858,348,549522,Self-Employed,Graduate,435048,Rejected
+149312,811,541072,Employed,Graduate,58596,Approved
+32666,316,88304,Self-Employed,Postgraduate,383245,Rejected
+58660,471,554999,Self-Employed,Graduate,423739,Rejected
+23561,519,381593,Self-Employed,Graduate,351005,Rejected
+46854,457,657274,Self-Employed,High School,255266,Rejected
+84505,776,201836,Employed,Graduate,348884,Rejected
+124488,345,158940,Employed,High School,15524,Rejected
+72251,672,874926,Unemployed,High School,412498,Rejected
+42662,817,315517,Self-Employed,High School,155002,Rejected
+28392,398,717521,Unemployed,Postgraduate,393293,Rejected
+50535,336,671820,Employed,Postgraduate,499097,Rejected
+98603,579,929090,Employed,Postgraduate,125501,Rejected
+133569,648,435777,Employed,High School,282755,Rejected
+72256,796,674674,Employed,Postgraduate,148056,Approved
+109135,601,601638,Employed,Postgraduate,14060,Rejected
+147478,480,667296,Employed,Graduate,214057,Rejected
+55222,398,930729,Employed,Postgraduate,477272,Rejected
+97373,415,599639,Self-Employed,Postgraduate,305447,Rejected
+99575,490,662956,Unemployed,High School,190279,Rejected
+143684,552,688873,Employed,High School,206118,Rejected
+116354,460,982809,Self-Employed,High School,160359,Rejected
+104651,555,387497,Self-Employed,High School,486925,Rejected
+83335,622,257869,Unemployed,High School,39711,Rejected
+30965,427,115953,Employed,High School,143026,Rejected
+44538,317,893890,Unemployed,Postgraduate,335484,Rejected
+128066,865,550328,Employed,High School,465317,Rejected
+90592,869,856790,Self-Employed,High School,464736,Rejected
+118018,622,53267,Self-Employed,Graduate,218134,Rejected
+133252,587,132745,Self-Employed,Postgraduate,102974,Rejected
+28110,454,926020,Self-Employed,Postgraduate,149646,Rejected
+99309,789,874945,Unemployed,Postgraduate,402400,Rejected
+47266,685,207164,Employed,High School,150168,Rejected
+72992,403,585626,Employed,High School,67728,Rejected
+102948,692,181484,Unemployed,High School,165088,Approved
+142073,545,581831,Employed,Graduate,11246,Rejected
+118806,475,942323,Self-Employed,High School,438774,Rejected
+26910,338,110692,Employed,Graduate,411597,Rejected
+130989,776,270156,Self-Employed,Postgraduate,389940,Rejected
+110982,837,273992,Unemployed,High School,429671,Rejected
+141626,707,566771,Employed,Graduate,92263,Approved
+139176,824,880857,Unemployed,Graduate,397234,Rejected
+20206,805,613044,Employed,High School,11302,Rejected
+107054,335,593176,Self-Employed,Postgraduate,329650,Rejected
+107897,319,741095,Unemployed,Postgraduate,41157,Rejected
+142409,620,883727,Employed,Postgraduate,54917,Rejected
+43419,811,164352,Self-Employed,Graduate,223810,Rejected
+70636,699,919474,Unemployed,Graduate,96646,Approved
+142546,770,135999,Unemployed,Graduate,345266,Rejected
+134238,442,67955,Employed,Graduate,286663,Rejected
+70015,391,874273,Employed,Postgraduate,490025,Rejected
